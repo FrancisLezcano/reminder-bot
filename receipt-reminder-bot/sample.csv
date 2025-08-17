@@ -1,0 +1,4 @@
+Date,Cardholder,Amount,Vendor,ReceiptReceived,Email
+2025-08-01,John Smith,120.50,Chewy,yes,john@example.com
+2025-08-02,Susan Lane,45.75,Amazon,Yes,susan@example.com
+2025-08-03,Alice Brown,89.99,Petco,yes,alice@example.com
